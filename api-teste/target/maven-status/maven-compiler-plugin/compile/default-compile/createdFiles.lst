@@ -1,0 +1,3 @@
+br\com\api\controller\FuncionarioController.class
+br\com\api\model\funcionarios.class
+br\com\api\repository\FuncionarioRepository.class
